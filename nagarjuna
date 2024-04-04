@@ -1,0 +1,10 @@
+we are good persions
+i am came to lab ipracticed docker 
+in the docker one is images another one is docker container 
+we run the multi container arcitachur or micro services
+some metodes
+1. --link(deprecated)
+2. docker compose files
+3. docker network 
+4. python
+5. ansable
